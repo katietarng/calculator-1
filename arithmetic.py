@@ -12,7 +12,7 @@ def multiply(num1, num2):
 
 def divide(num1, num2):
     """Input two numbers and return the quotient"""
-    return num1/num2
+    return float(num1)/num2
 
 def square(num1):
     """Input one number and return the square"""
