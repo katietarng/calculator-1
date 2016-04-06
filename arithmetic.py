@@ -11,13 +11,13 @@ def divide(num1, num2):
     return num1/num2
 
 def square(num1):
-    pass
+    return num1 * num1
 
 def cube(num1):
-    pass
+    return num1 * num1 * num1
 
 def power(num1, num2):
-    pass
+    return num1**num2
 
 def mod(num1, num2):
-    pass
+    return num1%num2
